@@ -1,0 +1,5 @@
+streamlit
+plotly==7.0.0
+yfinance
+pytrends
+pandas
